@@ -1,0 +1,6 @@
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\bin\Debug\Acceleration.exe.config
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\bin\Debug\Acceleration.exe
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\bin\Debug\Acceleration.pdb
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\obj\Debug\Acceleration.csprojResolveAssemblyReference.cache
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\obj\Debug\Acceleration.exe
+D:\programming\projects\Indi-development\Batiskaf\Acceleration\Acceleration\obj\Debug\Acceleration.pdb
